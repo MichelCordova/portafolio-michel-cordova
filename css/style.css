@@ -577,5 +577,8 @@ section{
 
     }
 
+    .about-content i{
+        font-size: 2rem;
+    }
  
 }
