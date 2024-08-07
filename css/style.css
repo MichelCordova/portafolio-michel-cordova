@@ -255,6 +255,10 @@ section{
     margin: 15rem 0;
 }
 
+.about-content i{
+    font-size: 7rem;
+}
+
 /*Scroll bar*/
 ::-webkit-scrollbar{
     width: 20px;
@@ -411,6 +415,7 @@ section{
     text-decoration: none;
 
 }
+
 
 
 
@@ -572,4 +577,5 @@ section{
 
     }
 
+ 
 }
