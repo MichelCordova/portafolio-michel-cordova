@@ -289,9 +289,9 @@ section{
 
 .service-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1.5fr));
     align-items: center;
-    gap: 2.5rem;
+    gap: 3rem;
 }
 
 .service-box{
